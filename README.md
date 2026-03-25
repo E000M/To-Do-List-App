@@ -1,8 +1,6 @@
 # Todo List App (React)
 
 
-## Project Description
-
 This project is a simple Todo List application built with React.  
 The main goal of this project is to manage daily tasks by allowing users to add, delete, and mark tasks as completed.
 
@@ -38,7 +36,3 @@ Users can:
 - TodoList.jsx  
 - TodoItem.jsx  
 - Footer.jsx  
-
-## Run Project
-npm install
-npm run dev
