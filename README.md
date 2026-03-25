@@ -10,7 +10,7 @@ It was developed to practice core React concepts such as:
 - Hooks
 - List rendering and manipulation
 
-## Screenshot
+
 ![App Screenshot](./to-do-app/src/assets/screenshot.png)
 
 ## Features
