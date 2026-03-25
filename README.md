@@ -1,4 +1,4 @@
-# Todo List App (React)
+# To-Do List App
 
 
 This project is a simple Todo List application built with React.  
